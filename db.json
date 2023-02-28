@@ -1,0 +1,56 @@
+{
+  "chairs": [
+    {
+      "id": 1,
+      "name": "Sakarias Armchair",
+      "price": 392,
+      "title": "chair",
+      "img": "images/chair-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Baltsar Chair",
+      "price": 299,
+      "title": "chair",
+      "img": "images/chair-2.png"
+    },
+    {
+      "id": 3,
+      "name": "Anjay Chair",
+      "price": 519,
+      "title": "chair",
+      "img": "images/chair-3.png"
+    },
+    {
+      "id": 4,
+      "name": "Nyantuy Chair",
+      "price": 921,
+      "title": "chair",
+      "img": "images/chair-4.png"
+    },{
+      "id": 5,
+      "name": "Sakarias Armchair",
+      "price": 392,
+      "title": "chair",
+      "img": "images/chair-5.png"
+    },{
+      "id": 6,
+      "name": "Baltsar Chair",
+      "price": 299,
+      "title": "chair",
+      "img": "images/chair-6.png"
+    },{
+      "id": 7,
+      "name": "Nyantuy Chair",
+      "price": 921,
+      "title": "chair",
+      "img": "images/chair-7.png"
+    },{
+      "id": 8,
+      "name": "Anjay Chair",
+      "price": 519,
+      "title": "chair",
+      "img": "images/chair-8.png"
+    }
+  ]
+}
